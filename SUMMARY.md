@@ -10,7 +10,7 @@
   * [ドル建て](glossary/fxtordganieruno100/dorute.md)
   * [チャート](glossary/fxtordganieruno100/chto.md)
   * [MT4（MT5）](glossary/fxtordganieruno100/mt4-mt5.md)
-  * [サーマータイム](glossary/fxtordganieruno100/smtaimu.md)
+  * [サマータイム](glossary/fxtordganieruno100/samtaimu.md)
   * [東京時間](glossary/fxtordganieruno100/dong-jing-shi-jian.md)
   * [ロンドン時間](glossary/fxtordganieruno100/rondon.md)
   * [ニューヨーク時間](glossary/fxtordganieruno100/nyyku.md)
